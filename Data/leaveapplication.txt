@@ -1,0 +1,26 @@
+Here is a sample leave application:
+
+**Application for Leave**
+
+To,
+[Recipient's Name]
+[Recipient's Designation]
+[Date]
+
+Respected [Recipient's Name],
+
+I am writing to request a leave of [number of days] days from [start date] to [end date]. I need to take this leave due to [briefly mention the reason for leave, e.g. personal reasons, family emergency, illness, etc.].
+
+I will ensure that all my tasks are completed and my work is up to date before taking the leave. I will also be available by email if anything urgent comes up while I am away.
+
+I would like to request your approval for my leave application. If there are any issues or concerns, please let me know and I will do my best to resolve them.
+
+Thank you for considering my application.
+
+Sincerely,
+
+[Your Name]
+[Your Designation]
+[Your Contact Information]
+
+Please note that this is just a sample and you should customize it according to your needs and the company's policies.

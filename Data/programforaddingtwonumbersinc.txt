@@ -1,0 +1,37 @@
+Here is a simple program in C to add two numbers:
+```
+#include <stdio.h>
+
+int main() {
+    int num1, num2, sum;
+
+    /* Ask the user for two numbers */
+    printf("Enter the first number: ");
+    scanf("%d", &num1);
+
+    printf("Enter the second number: ");
+    scanf("%d", &num2);
+
+    /* Add the two numbers */
+    sum = num1 + num2;
+
+    /* Display the result */
+    printf("The sum of %d and %d is: %d\n", num1, num2, sum);
+
+    return 0;
+}
+```
+Let me explain what each line does:
+
+1. `#include <stdio.h>`: This line tells the compiler to include the standard input/output library, which allows us to use functions like `printf` and `scanf`.
+2. `int main()`: This line declares the `main` function, which is the entry point of the program.
+3. `int num1, num2, sum;`: This line declares three integer variables: `num1`, `num2`, and `sum`.
+4. `printf("Enter the first number: ");`: This line prints a message to the user asking them to enter the first number.
+5. `scanf("%d", &num1);`: This line reads an integer from the user and stores it in the `num1` variable.
+6. `printf("Enter the second number: ");`: This line prints a message to the user asking them to enter the second number.
+7. `scanf("%d", &num2);`: This line reads an integer from the user and stores it in the `num2` variable.
+8. `sum = num1 + num2;`: This line adds the two numbers together and stores the result in the `sum` variable.
+9. `printf("The sum of %d and %d is: %d\n", num1, num2, sum);`: This line prints a message to the user displaying the result of the addition.
+10. `return 0;`: This line returns an exit status of 0 to indicate that the program executed successfully.
+
+To compile and run this program, save it to a file with a `.c` extension (e.g., `add_numbers.c`), then compile it with a C compiler (e.g., `gcc add_numbers.c -o add_numbers`), and finally run the resulting executable (e.g., `./add_numbers`).
